@@ -1,2 +1,0 @@
-message = "Ready for your first Great Very-bear Adventure?"
-alert(message)
