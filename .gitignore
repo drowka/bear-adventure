@@ -20,6 +20,12 @@
 *.tar
 *.zip
 
+# Emacs  #
+################
+*~
+[#]*[#]
+.\#*
+
 # Logs and databases #
 ######################
 *.log
@@ -27,6 +33,7 @@
 *.sqlite
 
 # Images #
+#########
 *.jpg
 *.png
 *.gif
